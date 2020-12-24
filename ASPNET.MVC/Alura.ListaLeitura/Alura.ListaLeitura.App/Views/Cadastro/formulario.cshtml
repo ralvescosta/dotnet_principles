@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <style>
+        html {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            height: 100%;
+            width: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        form {
+            display: flex;
+            flex-direction: column;
+        }
+        form input {
+               margin-bottom: 15px;
+        }
+    </style>
+</head>
+<body>
+    <form action="/cadastro/incluir" method="post">
+        <label>Nome do Livro</label>
+        <input name="nome"/>
+
+        <label>Author do Livro</label>
+        <input name="author"/>
+
+        <br />
+        <button>Cadastrar</button>
+    </form>
+</body>
+</html>
