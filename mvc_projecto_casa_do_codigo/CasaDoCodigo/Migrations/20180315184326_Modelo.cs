@@ -5,7 +5,7 @@ using System.Collections.Generic;
 
 namespace CasaDoCodigo.Migrations
 {
-    public partial class Modelos : Migration
+    public partial class Modelo : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {

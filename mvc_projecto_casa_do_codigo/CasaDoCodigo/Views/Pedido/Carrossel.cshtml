@@ -1,5 +1,5 @@
 ﻿@{
-    ViewData["Title"] = "Produto";
+    ViewData["Title"] = "Carrossel";
 }
 
 @model List<Produto>;
@@ -18,13 +18,17 @@
 
         @for (int pagina = 0; pagina < paginas; pagina++)
         {
+
             <div class="item @(pagina == 0 ? "active" : "")">
                 <div class="row">
+
                     @{
                         var produtosDaPagina = Model.Skip(pagina * TAMANHO_PAGINA).Take(TAMANHO_PAGINA);
                     }
+
                     @foreach (var produto in produtosDaPagina)
                     {
+
                         <div class="col-md-3 col-sm-3 col-lg-3">
                             <div class="panel panel-default">
                                 <div class="panel-body">
@@ -32,16 +36,20 @@
                                 </div>
                                 <div class="panel-footer produto-footer">
                                     <div class="produto-nome">@produto.Nome</div>
-                                    <div><h4><strong>@produto.Preco</strong></h4></div>
+                                    <div><h4><strong>R$ @produto.Preco</strong></h4></div>
                                     <div class="text-center">
-                                        <a asp-action="carrinho" asp-route-codigo="@produto.Codigo" class="btn btn-success">Adicionar</a>
+                                        <a asp-action="carrinho"
+                                           asp-route-codigo="@produto.Codigo"
+                                           class="btn btn-success">Adicionar</a>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     }
+
                 </div>
             </div>
+
         }
     </div>
 

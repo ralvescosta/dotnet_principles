@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace CasaDoCodigo.Repositories
 {
-    public interface IProdutosRepository
+    public interface IProdutoRepository
     {
         void SaveProdutos(List<Livro> livros);
         IList<Produto> GetProdutos();

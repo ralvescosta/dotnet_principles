@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace CasaDoCodigo.Models
 {
     [DataContract]
-    public class BaseModel
+    public abstract class BaseModel
     {
         [DataMember]
         public int Id { get; protected set; }
@@ -64,7 +64,7 @@ namespace CasaDoCodigo.Models
     }
 
     public class ItemPedido : BaseModel
-    {   
+    {
         [Required]
         public Pedido Pedido { get; private set; }
         [Required]
