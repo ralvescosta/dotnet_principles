@@ -6,7 +6,6 @@ namespace Alura.ListaLeitura.App
     {
         static void Main(string[] args)
         {
-
             IWebHost host = new WebHostBuilder()
                 .UseKestrel()
                 .UseStartup<Startup>()
