@@ -1,5 +1,4 @@
 ﻿using CasaDoCodigo.Models;
-using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
 
 namespace CasaDoCodigo.Repositories

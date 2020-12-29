@@ -1,6 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using CasaDoCodigo.Repositories;
-using System;
 
 namespace CasaDoCodigo.Controllers
 {
