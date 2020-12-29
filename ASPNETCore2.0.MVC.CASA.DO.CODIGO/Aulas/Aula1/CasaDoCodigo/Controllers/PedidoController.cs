@@ -1,16 +1,24 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using CasaDoCodigo.Repositories;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace CasaDoCodigo.Controllers
 {
     public class PedidoController : Controller
     {
+
+        private readonly IProdutosRepository produtoRepository;
+
+        public PedidoController(IProdutosRepository produtoRepository)
+        {
+            this.produtoRepository = produtoRepository;
+        }
+
         public IActionResult Carrossel()
         {
-            return View();
+            var produtos = produtoRepository.GetProdutos();
+            
+            return View(produtos);
         }
         //
 
