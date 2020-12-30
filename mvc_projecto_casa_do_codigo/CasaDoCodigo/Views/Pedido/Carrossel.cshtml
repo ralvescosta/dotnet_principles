@@ -1,5 +1,5 @@
 ﻿@{
-    ViewData["Title"] = "Carrossel";
+	ViewData["Title"] = "Carrossel";
 }
 
 @model List<Produto>;
@@ -39,8 +39,8 @@
                                     <div><h4><strong>R$ @produto.Preco</strong></h4></div>
                                     <div class="text-center">
                                         <a asp-action="carrinho"
-                                           asp-route-codigo="@produto.Codigo"
-                                           class="btn btn-success">Adicionar</a>
+										   asp-route-codigo="@produto.Codigo"
+										   class="btn btn-success">Adicionar</a>
                                     </div>
                                 </div>
                             </div>
