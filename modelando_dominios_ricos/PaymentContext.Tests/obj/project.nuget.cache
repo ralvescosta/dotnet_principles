@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "liB9/S5HLrAW50+wVBEWWdLaWSIL73KbRGIGJj1HVbAk+zitg5v/rSBu7gLz8TQl6rOqQUvxmPmC6Njs2BrdMQ==",
+  "dgSpecHash": "HEwHrhGe6MpVpd36/mpEhNGRy554sXPln/eLOJkivm1ksnpitMVHgZhkfxoAFtUgre/J/wkeipoP2EA97AQZjQ==",
   "success": true,
   "projectFilePath": "/home/ralvescosta/Desktop/Rafael/dotnet_principles/modelando_dominios_ricos/PaymentContext.Tests/PaymentContext.Tests.csproj",
   "expectedPackageFiles": [

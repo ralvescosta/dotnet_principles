@@ -1,4 +1,5 @@
 using System;
+using PaymentContext.Domain.ValueObjects;
 
 namespace PaymentContext.Domain.Entities
 {
@@ -14,17 +15,17 @@ namespace PaymentContext.Domain.Entities
         decimal total, 
         decimal totalPaid, 
         string payer, 
-        string document, 
-        string address, 
-        string email) : base(numero, paidDate, expireDate, total, totalPaid, payer, document, address, email)
-      {
-        CardHolderName = cardHolderName;
-        CardNumber = cardNumber;
-        LastTransactionNumber = lastTransactionNumber;
-      }
+        Document document, 
+        Address address, 
+        Email email) : base(numero, paidDate, expireDate, total, totalPaid, payer, document, address, email)
+        {
+          CardHolderName = cardHolderName;
+          CardNumber = cardNumber;
+          LastTransactionNumber = lastTransactionNumber;
+        }
 
-      public string CardHolderName { get; private set; }
-          public string CardNumber { get; private set; }
-          public string LastTransactionNumber { get; private set; }
+        public string CardHolderName { get; private set; }
+        public string CardNumber { get; private set; }
+        public string LastTransactionNumber { get; private set; }
       }
 }

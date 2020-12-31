@@ -95,3 +95,7 @@
 /home/ralvescosta/Desktop/Rafael/dotnet_principles/modelando_dominios_ricos/PaymentContext.Tests/obj/Debug/net5.0/ref/PaymentContext.Tests.dll
 /home/ralvescosta/Desktop/Rafael/dotnet_principles/modelando_dominios_ricos/PaymentContext.Tests/obj/Debug/net5.0/PaymentContext.Tests.pdb
 /home/ralvescosta/Desktop/Rafael/dotnet_principles/modelando_dominios_ricos/PaymentContext.Tests/obj/Debug/net5.0/PaymentContext.Tests.genruntimeconfig.cache
+/home/ralvescosta/Desktop/Rafael/dotnet_principles/modelando_dominios_ricos/PaymentContext.Tests/bin/Debug/net5.0/PaymentContext.Domain.dll
+/home/ralvescosta/Desktop/Rafael/dotnet_principles/modelando_dominios_ricos/PaymentContext.Tests/bin/Debug/net5.0/PaymentContext.Shared.dll
+/home/ralvescosta/Desktop/Rafael/dotnet_principles/modelando_dominios_ricos/PaymentContext.Tests/bin/Debug/net5.0/PaymentContext.Shared.pdb
+/home/ralvescosta/Desktop/Rafael/dotnet_principles/modelando_dominios_ricos/PaymentContext.Tests/bin/Debug/net5.0/PaymentContext.Domain.pdb

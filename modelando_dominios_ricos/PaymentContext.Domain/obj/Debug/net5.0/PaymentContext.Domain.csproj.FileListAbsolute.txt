@@ -10,3 +10,6 @@
 /home/ralvescosta/Desktop/Rafael/dotnet_principles/modelando_dominios_ricos/PaymentContext.Domain/obj/Debug/net5.0/PaymentContext.Domain.dll
 /home/ralvescosta/Desktop/Rafael/dotnet_principles/modelando_dominios_ricos/PaymentContext.Domain/obj/Debug/net5.0/ref/PaymentContext.Domain.dll
 /home/ralvescosta/Desktop/Rafael/dotnet_principles/modelando_dominios_ricos/PaymentContext.Domain/obj/Debug/net5.0/PaymentContext.Domain.pdb
+/home/ralvescosta/Desktop/Rafael/dotnet_principles/modelando_dominios_ricos/PaymentContext.Domain/bin/Debug/net5.0/PaymentContext.Shared.dll
+/home/ralvescosta/Desktop/Rafael/dotnet_principles/modelando_dominios_ricos/PaymentContext.Domain/bin/Debug/net5.0/PaymentContext.Shared.pdb
+/home/ralvescosta/Desktop/Rafael/dotnet_principles/modelando_dominios_ricos/PaymentContext.Domain/obj/Debug/net5.0/PaymentContext.Domain.csproj.CopyComplete
