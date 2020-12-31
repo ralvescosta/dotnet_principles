@@ -99,3 +99,4 @@
 /home/ralvescosta/Desktop/Rafael/dotnet_principles/modelando_dominios_ricos/PaymentContext.Tests/bin/Debug/net5.0/PaymentContext.Shared.dll
 /home/ralvescosta/Desktop/Rafael/dotnet_principles/modelando_dominios_ricos/PaymentContext.Tests/bin/Debug/net5.0/PaymentContext.Shared.pdb
 /home/ralvescosta/Desktop/Rafael/dotnet_principles/modelando_dominios_ricos/PaymentContext.Tests/bin/Debug/net5.0/PaymentContext.Domain.pdb
+/home/ralvescosta/Desktop/Rafael/dotnet_principles/modelando_dominios_ricos/PaymentContext.Tests/bin/Debug/net5.0/Flunt.dll
