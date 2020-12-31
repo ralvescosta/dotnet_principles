@@ -10,6 +10,8 @@ namespace PaymentContext.Domain.Entities
 
         public Student(Name name, Document document, Email email)
         {
+            AddNotifications(name, document, email);
+
             Name = name;
             Document = document;
             Email = email;
