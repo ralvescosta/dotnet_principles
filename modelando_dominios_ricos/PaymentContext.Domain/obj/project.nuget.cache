@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mj+7Z/s32i41Jd2mwfXTpGdOjU6TMu0EZavmREGbdgpWQNZNnu3DyDBNloW6teeT7ykkOJlQccERigzpRUjSAQ==",
+  "success": true,
+  "projectFilePath": "/home/ralvescosta/Desktop/Rafael/dotnet_principles/modelando_dominios_ricos/PaymentContext.Domain/PaymentContext.Domain.csproj",
+  "expectedPackageFiles": [
+    "/home/ralvescosta/.nuget/packages/flunt/1.0.5/flunt.1.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

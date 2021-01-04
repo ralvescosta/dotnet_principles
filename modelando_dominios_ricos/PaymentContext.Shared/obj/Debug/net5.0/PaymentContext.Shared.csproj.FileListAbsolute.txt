@@ -1,0 +1,12 @@
+/home/ralvescosta/Desktop/Rafael/dotnet_principles/modelando_dominios_ricos/PaymentContext.Shared/bin/Debug/net5.0/PaymentContext.Shared.deps.json
+/home/ralvescosta/Desktop/Rafael/dotnet_principles/modelando_dominios_ricos/PaymentContext.Shared/bin/Debug/net5.0/PaymentContext.Shared.dll
+/home/ralvescosta/Desktop/Rafael/dotnet_principles/modelando_dominios_ricos/PaymentContext.Shared/bin/Debug/net5.0/ref/PaymentContext.Shared.dll
+/home/ralvescosta/Desktop/Rafael/dotnet_principles/modelando_dominios_ricos/PaymentContext.Shared/bin/Debug/net5.0/PaymentContext.Shared.pdb
+/home/ralvescosta/Desktop/Rafael/dotnet_principles/modelando_dominios_ricos/PaymentContext.Shared/obj/Debug/net5.0/PaymentContext.Shared.csprojAssemblyReference.cache
+/home/ralvescosta/Desktop/Rafael/dotnet_principles/modelando_dominios_ricos/PaymentContext.Shared/obj/Debug/net5.0/PaymentContext.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/home/ralvescosta/Desktop/Rafael/dotnet_principles/modelando_dominios_ricos/PaymentContext.Shared/obj/Debug/net5.0/PaymentContext.Shared.AssemblyInfoInputs.cache
+/home/ralvescosta/Desktop/Rafael/dotnet_principles/modelando_dominios_ricos/PaymentContext.Shared/obj/Debug/net5.0/PaymentContext.Shared.AssemblyInfo.cs
+/home/ralvescosta/Desktop/Rafael/dotnet_principles/modelando_dominios_ricos/PaymentContext.Shared/obj/Debug/net5.0/PaymentContext.Shared.csproj.CoreCompileInputs.cache
+/home/ralvescosta/Desktop/Rafael/dotnet_principles/modelando_dominios_ricos/PaymentContext.Shared/obj/Debug/net5.0/PaymentContext.Shared.dll
+/home/ralvescosta/Desktop/Rafael/dotnet_principles/modelando_dominios_ricos/PaymentContext.Shared/obj/Debug/net5.0/ref/PaymentContext.Shared.dll
+/home/ralvescosta/Desktop/Rafael/dotnet_principles/modelando_dominios_ricos/PaymentContext.Shared/obj/Debug/net5.0/PaymentContext.Shared.pdb
