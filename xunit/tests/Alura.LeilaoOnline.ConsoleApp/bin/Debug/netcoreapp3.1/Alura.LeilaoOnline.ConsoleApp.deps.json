@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Alura.LeilaoOnline.ConsoleApp/1.0.0": {
+        "dependencies": {
+          "Alura.LeilaoOnline.Core": "1.0.0"
+        },
+        "runtime": {
+          "Alura.LeilaoOnline.ConsoleApp.dll": {}
+        }
+      },
+      "Alura.LeilaoOnline.Core/1.0.0": {
+        "runtime": {
+          "Alura.LeilaoOnline.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Alura.LeilaoOnline.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Alura.LeilaoOnline.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
