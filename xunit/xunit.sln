@@ -5,7 +5,11 @@ VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Alura.LeilaoOnline.Core", "src\Alura.LeilaoOnline.Core\Alura.LeilaoOnline.Core.csproj", "{B40DDFAB-FADD-4339-BA61-503E7FF9E7E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alura.LeilaoOnline.ConsoleApp", "tests\Alura.LeilaoOnline.ConsoleApp\Alura.LeilaoOnline.ConsoleApp.csproj", "{8BEF6332-5F3A-41ED-A887-6EE23243192B}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{9E29CD3F-7A9F-4607-BD8D-3BBE0722E07C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{DB039C7A-2729-403F-9F8E-6D28BC72B516}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Alura.LeilaoOnline.Tests", "tests\Alura.LeilaoOnline.Tests\Alura.LeilaoOnline.Tests.csproj", "{8DB89D79-477F-4325-AF65-739D6C08A92F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,13 +21,17 @@ Global
 		{B40DDFAB-FADD-4339-BA61-503E7FF9E7E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B40DDFAB-FADD-4339-BA61-503E7FF9E7E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B40DDFAB-FADD-4339-BA61-503E7FF9E7E5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8BEF6332-5F3A-41ED-A887-6EE23243192B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8BEF6332-5F3A-41ED-A887-6EE23243192B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8BEF6332-5F3A-41ED-A887-6EE23243192B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8BEF6332-5F3A-41ED-A887-6EE23243192B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DB89D79-477F-4325-AF65-739D6C08A92F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DB89D79-477F-4325-AF65-739D6C08A92F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DB89D79-477F-4325-AF65-739D6C08A92F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DB89D79-477F-4325-AF65-739D6C08A92F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B40DDFAB-FADD-4339-BA61-503E7FF9E7E5} = {9E29CD3F-7A9F-4607-BD8D-3BBE0722E07C}
+		{8DB89D79-477F-4325-AF65-739D6C08A92F} = {DB039C7A-2729-403F-9F8E-6D28BC72B516}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3AF3FC4D-3058-4815-806E-BCC5DB8958DD}

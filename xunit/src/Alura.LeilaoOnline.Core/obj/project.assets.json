@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rafael\\Documents\\alura\\xunit\\src\\Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj",
+      "projectUniqueName": "C:\\Users\\rafael\\Documents\\alura\\dotnet_principles\\xunit\\src\\Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj",
       "projectName": "Alura.LeilaoOnline.Core",
-      "projectPath": "C:\\Users\\rafael\\Documents\\alura\\xunit\\src\\Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj",
+      "projectPath": "C:\\Users\\rafael\\Documents\\alura\\dotnet_principles\\xunit\\src\\Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj",
       "packagesPath": "C:\\Users\\rafael\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rafael\\Documents\\alura\\xunit\\src\\Alura.LeilaoOnline.Core\\obj\\",
+      "outputPath": "C:\\Users\\rafael\\Documents\\alura\\dotnet_principles\\xunit\\src\\Alura.LeilaoOnline.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rafael\\AppData\\Roaming\\NuGet\\NuGet.Config",

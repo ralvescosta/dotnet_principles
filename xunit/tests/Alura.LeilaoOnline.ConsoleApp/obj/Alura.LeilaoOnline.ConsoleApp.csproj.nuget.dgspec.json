@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rafael\\Documents\\alura\\xunit\\tests\\Alura.LeilaoOnline.ConsoleApp\\Alura.LeilaoOnline.ConsoleApp.csproj": {}
+    "C:\\Users\\rafael\\Documents\\alura\\dotnet_principles\\xunit\\tests\\Alura.LeilaoOnline.ConsoleApp\\Alura.LeilaoOnline.ConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rafael\\Documents\\alura\\xunit\\src\\Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj": {
+    "C:\\Users\\rafael\\Documents\\alura\\dotnet_principles\\xunit\\src\\Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rafael\\Documents\\alura\\xunit\\src\\Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj",
+        "projectUniqueName": "C:\\Users\\rafael\\Documents\\alura\\dotnet_principles\\xunit\\src\\Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj",
         "projectName": "Alura.LeilaoOnline.Core",
-        "projectPath": "C:\\Users\\rafael\\Documents\\alura\\xunit\\src\\Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj",
+        "projectPath": "C:\\Users\\rafael\\Documents\\alura\\dotnet_principles\\xunit\\src\\Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj",
         "packagesPath": "C:\\Users\\rafael\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rafael\\Documents\\alura\\xunit\\src\\Alura.LeilaoOnline.Core\\obj\\",
+        "outputPath": "C:\\Users\\rafael\\Documents\\alura\\dotnet_principles\\xunit\\src\\Alura.LeilaoOnline.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rafael\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,14 +61,14 @@
         }
       }
     },
-    "C:\\Users\\rafael\\Documents\\alura\\xunit\\tests\\Alura.LeilaoOnline.ConsoleApp\\Alura.LeilaoOnline.ConsoleApp.csproj": {
+    "C:\\Users\\rafael\\Documents\\alura\\dotnet_principles\\xunit\\tests\\Alura.LeilaoOnline.ConsoleApp\\Alura.LeilaoOnline.ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rafael\\Documents\\alura\\xunit\\tests\\Alura.LeilaoOnline.ConsoleApp\\Alura.LeilaoOnline.ConsoleApp.csproj",
+        "projectUniqueName": "C:\\Users\\rafael\\Documents\\alura\\dotnet_principles\\xunit\\tests\\Alura.LeilaoOnline.ConsoleApp\\Alura.LeilaoOnline.ConsoleApp.csproj",
         "projectName": "Alura.LeilaoOnline.ConsoleApp",
-        "projectPath": "C:\\Users\\rafael\\Documents\\alura\\xunit\\tests\\Alura.LeilaoOnline.ConsoleApp\\Alura.LeilaoOnline.ConsoleApp.csproj",
+        "projectPath": "C:\\Users\\rafael\\Documents\\alura\\dotnet_principles\\xunit\\tests\\Alura.LeilaoOnline.ConsoleApp\\Alura.LeilaoOnline.ConsoleApp.csproj",
         "packagesPath": "C:\\Users\\rafael\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rafael\\Documents\\alura\\xunit\\tests\\Alura.LeilaoOnline.ConsoleApp\\obj\\",
+        "outputPath": "C:\\Users\\rafael\\Documents\\alura\\dotnet_principles\\xunit\\tests\\Alura.LeilaoOnline.ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rafael\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -85,8 +85,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\rafael\\Documents\\alura\\xunit\\src\\Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj": {
-                "projectPath": "C:\\Users\\rafael\\Documents\\alura\\xunit\\src\\Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj"
+              "C:\\Users\\rafael\\Documents\\alura\\dotnet_principles\\xunit\\src\\Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj": {
+                "projectPath": "C:\\Users\\rafael\\Documents\\alura\\dotnet_principles\\xunit\\src\\Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj"
               }
             }
           }

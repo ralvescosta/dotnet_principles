@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DVwX0xmw5HiZSibum1LRwZuJSAGtmG29CMJcNPlvt0x4F9V5fuk1mmHxV9L8byZaKFslhHM3SRy4E6GPrqojbg==",
+  "dgSpecHash": "1Kz3v5J7/nQyzTNM27FtZwuKX81wtqyk2lzHrG1zJZwwUcEVyTT4XV7wdm+eHTQpyEgYbu/MDXVfHY2sIFfPig==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rafael\\Documents\\alura\\xunit\\src\\Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj",
+  "projectFilePath": "C:\\Users\\rafael\\Documents\\alura\\dotnet_principles\\xunit\\src\\Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rafael\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\rafael\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

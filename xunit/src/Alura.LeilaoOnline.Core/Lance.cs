@@ -1,4 +1,6 @@
-﻿namespace Alura.LeilaoOnline.Core
+﻿using System;
+
+namespace Alura.LeilaoOnline.Core
 {
     public class Lance
     {
@@ -7,6 +9,10 @@
 
         public Lance(Interessada cliente, double valor)
         {
+            if(valor < 0)
+            {
+                throw new ArgumentException("Valor do lance dever igual ou maior que zero.");
+            }
             Cliente = cliente;
             Valor = valor;
         }
